@@ -1,0 +1,88 @@
+/* .application-layout {
+
+}
+
+.left-sidebar {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  min-width: 220px;
+  width: 220px;
+  height: 100%;
+  background: #2F4050;
+
+  > .logo {
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+    background: #273440;
+  }
+  > .logo > i {
+    font-size: 4em;
+  }
+  > .logo > span {
+    display: block;
+  }
+
+  > ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  > ul > li {
+    position: relative;
+    display: block;
+  }
+
+  > ul > li > a {
+    line-height: 1.42;
+    font-size: 13px;
+    display: block;
+    color: #a7b1c2;
+    font-weight: 600;
+    padding: 14px 20px 14px 25px;
+    text-decoration: none;
+    border-bottom: 1px solid #293846;
+    transition: background-color 0.4s ease;
+  }
+
+  > ul > li > a > i {
+    margin-right: 5px;
+  }
+
+  > ul > li > a:hover {
+    background: #293846;
+    color: #fff;
+  }
+}
+
+.navbar {
+  background: #f3f3f4;
+  height: 59px;
+  border-bottom: 1px solid #e7eaec;
+
+  > .hide-btn {
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin: 14px 5px 5px 20px;
+    font-size: 14px;
+    background-color: #B3142E;
+    border-color: #9B1129;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+}
+
+.main-area {
+  // padding: 1em;
+  margin: 0;
+  margin-left: 220px;
+}
+
+.main-content {
+  padding: 5px;
+} */
